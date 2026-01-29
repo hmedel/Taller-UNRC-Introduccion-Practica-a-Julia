@@ -14,10 +14,7 @@ este lenguaje de programación y paquetes más útiles.
 4.  Variables y tipos 
 5.  Flujo de control
 6.  Funciones
-7.  Estructuras de datos
-8.  Input/Output
-9.  Gráficas simples
-10. Ejemplos de despacho múltiple
+7.  Gráficas simples
 
 ## Fechas y lugar
 Fecha: **29 enero de 2026** en horario de **17:00 a 20:00 hrs**.
