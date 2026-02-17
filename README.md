@@ -1,6 +1,6 @@
-# Programación en Julia:  Primeros pasos
+# Introducción práctica al lenguaje de programación Julia
 
-En este repositorio se encuentran las notas y códigos usados en el taller "Programación en Julia:  Primeros pasos".
+En este repositorio se encuentran las notas y códigos usados en el taller "Introducción práctica al lenguaje de programación Julia".
 
 ## Objetivo
 Introducir, de manera práctica, las bases de programación en
@@ -17,7 +17,7 @@ este lenguaje de programación y paquetes más útiles.
 7.  Gráficas simples
 
 ## Fecha
-**29 enero de 2026** en horario de **17:00 a 20:00 hrs**.
+Del **16 al 26 de febrero de 2026** en horario de **20:00 a 22:00 hrs**.
 
 ## Navegación en el repositorio
 El repositorio está organizado de la siguiente manera:
