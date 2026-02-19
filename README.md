@@ -26,6 +26,10 @@ El repositorio está organizado de la siguiente manera:
 
 - **hw** -- actividades sugeridas del taller.
 
+## Enlace a las sesiones
+  https://drive.google.com/drive/folders/1de8bVKIrRXeZCgxRQPGL9aERcr_1_QIV?usp=drive_link
+  
+
 ## Sitios importantes
 https://julialang.org/
 
