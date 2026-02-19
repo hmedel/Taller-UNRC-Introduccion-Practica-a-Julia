@@ -27,7 +27,9 @@ El repositorio está organizado de la siguiente manera:
 - **hw** -- actividades sugeridas del taller.
 
 ## Enlace a las sesiones
+### Enlace primera sesión
   https://drive.google.com/drive/folders/1de8bVKIrRXeZCgxRQPGL9aERcr_1_QIV?usp=drive_link
+### Enlace sesiones
   
 
 ## Sitios importantes
